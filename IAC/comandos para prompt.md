@@ -16,3 +16,4 @@
 - git status : verifica o estado do repositorio local
 - git pull: pega as alterações no git origin (remoto)
 - git checkout nome_da_branch: faz login na branch especifica
+
