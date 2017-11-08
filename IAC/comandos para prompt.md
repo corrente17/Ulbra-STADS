@@ -4,12 +4,13 @@
 - cd nome_psdts:acessa a pasta
 - cd .. : volta um nivel na pasta
 - ls: lista as pastas e arquivos da pasta
+- CTRL+C: cancelar a operaÃ§Ã£o corrente
 
 ----
 
 # do git
-- git clone <url_do_repositório_remoto>
-- git add . : inclui os arquivos novos e alterações ( add na maleta)
+- git clone <url_do_repositÃ³rio_remoto>
+- git add . : inclui os arquivos novos e alteraÃ§Ãµes ( add na maleta)
 - git commit -m "mensagem da etiqueta que vai na maleta"
 - git push origin master : envia a maleta para o remoto (github)
 - git status : verifica o estado do repositorio local
