@@ -1,7 +1,7 @@
 # comandos para prompt de comandos
 
 - mkdir nome_pasta: acessa a pasta
-- cd nome_psdts:acessa a pasta
+- cd nome_pasta:acessa a pasta
 - cd .. : volta um nivel na pasta
 - ls: lista as pastas e arquivos da pasta
 
